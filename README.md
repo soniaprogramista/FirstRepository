@@ -1,1 +1,1 @@
-# FirstRepository
+Paragon z warzywniaka
